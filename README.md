@@ -1,2 +1,2 @@
-Run all the file given below syntax:
+Run all the files using below syntax:
 >>>streamlit run file_name.py
